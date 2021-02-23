@@ -1,5 +1,5 @@
 {
-  "name": "vis-timeline",
+  "name": "@creek0810/vis-timeline",
   "version": "0.0.0-no-version",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "homepage": "https://visjs.github.io/vis-timeline/",
@@ -260,7 +260,8 @@
     "softwareCobbler <davidwrogers2@gmail.com>",
     "synthomat <info@sublink.de>",
     "thomasbarone <thomas.barone@spectraqest.com>",
-    "unknown <schneidersb@NB1207305.koehl.eu>"
+    "unknown <schneidersb@NB1207305.koehl.eu>",
+    "creek0810 <creek880810@gmail.com>"
   ],
   "dependencies": {}
 }
